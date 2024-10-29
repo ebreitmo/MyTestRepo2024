@@ -7,7 +7,7 @@
             "name": "MyTestsForFeatures"
         }
     ],
-    "codeRepository": "https://github.com/",
+    "codeRepository": "https://github.com/ebreitmo/MyTestRepo2024/tree/main",
     "description": "This software is part of ...",
     "license": "https://spdx.org/licenses/Apache-2.0",
     "name": "MyTestsForFeatures",
