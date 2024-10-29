@@ -1,0 +1,21 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "author": [
+        {
+            "type": "Organization",
+            "name": "MyTestsForFeatures"
+        }
+    ],
+    "codeRepository": "https://github.com/",
+    "description": "This software is part of ...",
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "name": "MyTestsForFeatures",
+    "funder": {
+            "@id": "https://orcid.org/....",
+            "type": "Organization",
+            "name": "..."
+    },
+    "readme": "https://github.com/.../blob/main/README.md",
+    "issueTracker": "https://github.com/.../issues"
+}
