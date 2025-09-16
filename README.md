@@ -3,3 +3,5 @@ To test and try out features
 
 Using https://www.repostatus.org/ to display the current status of the repo:
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
+Added Github action following [Tamas's instructions](https://github.com/EVERSE-ResearchSoftware/QualityPipelines?tab=readme-ov-file#github-action).
